@@ -1,0 +1,6 @@
+673,Huynh Diem,chieu,nu
+384,Nguyen van,nguyen,nam
+976,le dinh,kinh,nam
+293,truong minh,tien,nu
+329,nguyen van,linh,nam
+893,nguyen thanh,tung,nam
